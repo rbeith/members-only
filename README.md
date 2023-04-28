@@ -1,8 +1,11 @@
-for The Odin Project: https://www.theodinproject.com/lessons/ruby-on-rails-members-only#solutions
+*From The Odin Project's Ruby on Rails Course*
+
+https://www.theodinproject.com/lessons/ruby-on-rails-members-only#solutions
 
 
-Project: Members Only!
-Ruby on Rails Course
+
+**Project: Members Only!**
+
 Introduction
 
 In these projects, you’ll be working to implement authentication systems so users can only access areas of a site they are authorized to.
