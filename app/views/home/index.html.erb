@@ -1,0 +1,20 @@
+<h1>Posts</h1>
+
+<%= link_to "new post", new_post_path %>
+<ul>
+  <% @posts.each do |post| %>
+		<li>
+			<%= link_to post.title, post %>
+			<div>
+			<% if user_signed_in? %>
+				<% @user = User.find(post.user_id) %>
+					a post by <%= @user.email %>
+			</div>
+			<% end %>
+		</li><br>
+	<% end %>
+</ul>
+
+<div>
+<%= render "shared/footer" %>
+</div>
