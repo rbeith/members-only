@@ -1,24 +1,11 @@
-# README
+for The Odin Project: https://www.theodinproject.com/lessons/ruby-on-rails-members-only#solutions
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
 
-Things you may want to cover:
+Project: Members Only!
+Ruby on Rails Course
+Introduction
 
-* Ruby version
+In these projects, you’ll be working to implement authentication systems so users can only access areas of a site they are authorized to.
+Project: Members Only!
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+In this project, you’ll be building an exclusive clubhouse where your members can write anonymous posts. Inside the clubhouse, members can see who the author of a post is but, outside, they can only see the story and wonder who wrote it.
