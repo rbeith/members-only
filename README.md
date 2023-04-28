@@ -1,6 +1,6 @@
 *From The Odin Project's Ruby on Rails Course*
 
-https://www.theodinproject.com/lessons/ruby-on-rails-members-only#solutions
+https://www.theodinproject.com/lessons/ruby-on-rails-members-only
 
 
 
